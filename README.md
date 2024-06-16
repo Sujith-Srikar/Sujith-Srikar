@@ -4,11 +4,7 @@
 🔭 I'm currently working on MERN stack projects that showcase my skills in building robust and dynamic web applications.<br><br>👯 I'm looking to collaborate on projects that push the boundaries of frontend development and create unforgettable user experiences.<br><br>🤝 I'm looking for help with expanding my knowledge in cutting-edge technologies like Web3 and exploring the vast possibilities it offers.<br><br>🌱 I'm currently learning Web3 Development to stay at the forefront of the decentralized web revolution.<br><br>💬 Ask me about how to create stunning visual effects that bring websites to life or how to optimize code for seamless performance.<br><be>
 
 # 🌐 Socials:
-<a href="https://linktr.ee/Sujith_Srikar" target="_blank" style="text-decoration: none; color: #fff; background-color: #007BFF; padding: 10px 20px; border-radius: 5px; font-size: 16px; font-weight: bold; display: inline-block; transition: background-color 0.3s, transform 0.3s;"
-   onmouseover="this.style.backgroundColor='#0056b3'; this.style.transform='scale(1.05)';"
-   onmouseout="this.style.backgroundColor='#007BFF'; this.style.transform='scale(1)';"
-   onmousedown="this.style.backgroundColor='#004080';"
-   onmouseup="this.style.backgroundColor='#0056b3';">
+<a href="https://linktr.ee/Sujith_Srikar" target="_blank">
   Website
 </a>
 
