@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kandregulasujith@gmail.com**
 
-- ⚡ Fun fact **I have a love towards Shoes**
+- ⚡ Fun fact **"I'm lowkey obsessed with shoes 👟🔥"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
