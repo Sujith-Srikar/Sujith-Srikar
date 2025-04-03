@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sujith Srikar</h1>
 <h3 align="center">Passionate Dev who loves to ship products which people love and use😉</h3>
 
-- 🌱 I’m currently learning **Advanced Web Development, BlockChain**
+- 😎 Portfolio - [Sujith Srikar](https://sujith-srikar.vercel.app/)
+
+- 🌱 I’m currently learning **Advanced Web Development, GEN AI**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Sujith_Srikar](https://linktr.ee/Sujith_Srikar)
 
