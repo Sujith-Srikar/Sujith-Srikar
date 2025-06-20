@@ -2,20 +2,16 @@
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Sujith Srikar</h1>
-<h3 align="center">Passionate Dev who loves to ship products which people love and use😉</h3>
+# Hey there! 👋 I'm Sujith Srikar
+### Dev enthusiast on a mission to build cool stuff that actually works (most of the time) 😉
 
-- 😎 Portfolio - [Sujith Srikar](https://sujith-srikar.vercel.app/)
-
-- 🌱 I’m currently learning **Advanced Web Development, GEN AI**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Sujith_Srikar](https://linktr.ee/Sujith_Srikar)
-
-- 💬 Ask me about **Dev, DSA and Design**
-
-- 📫 How to reach me **kandregulasujith@gmail.com**
-
+- 😎 Check out my portfolio at [Sujith Srikar](https://sujith-srikar.vercel.app/), where I pretend to have my life together.
+- 🌱 Currently diving into **Advanced Web Development and GEN AI**, because apparently, I enjoy suffering.
+- 👨‍💻 All my projects are over at [https://linktr.ee/Sujith_Srikar](https://linktr.ee/Sujith_Srikar), including the ones I’m too embarrassed to show anyone.
+- 💬 Feel free to ask me about **Development, Data Structures & Algorithms, or Design**—I’ll either impress you or confuse us both.
+- 📫 Reach me at **kandregulasujith@gmail.com** (I promise to respond within a reasonable timeframe, like, maybe a week or two.)
 - ⚡ Fun fact **"I'm lowkey obsessed with shoes 👟🔥"**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
